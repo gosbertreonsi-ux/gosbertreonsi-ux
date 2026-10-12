@@ -9,10 +9,4 @@
       <p>How Coding FEELS🎭</p>
     </div>
   </div>
-  
-  <!-- Right Main Box: For your other content, stats, or separate text blocks -->
-  <div style="flex: 1; text-align: left;">
-  
-  </div>
-
 </div>
