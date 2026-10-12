@@ -14,7 +14,7 @@
   
   <!-- Right Main Box: For your other content, stats, or separate text blocks -->
   <div style="flex: 1; text-align: left;">
-    <!-- Put the content for your second big red box here -->
+    <p>Hello</p>
   </div>
 
 </div>
