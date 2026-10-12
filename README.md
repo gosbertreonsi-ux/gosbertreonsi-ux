@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-around; width: 100%; gap: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; flex: 1;">
-    <img src="image.gif" alt="Full Stack Silhouette Edit" style="width: 50%; max-height: 40px; object-fit: cover; background-color: #0d1117; border-radius: 6px;" />
+    <img src="image.gif" alt="Full Stack Silhouette Edit" style="width: 50%; max-height: 40px; object-fit: cover; background-color: #0d1117; border-radius: 10px;" />
     <p style="margin-top: 8px;">How Coding FEELS🎭</p>
   </div>
   
