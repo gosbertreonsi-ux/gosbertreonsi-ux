@@ -6,8 +6,6 @@
       <img src="image.gif" alt="Full Stack Silhouette Edit" style="width: 30%; max-height: 40px; object-fit: cover; background-color: #0d1117; border-radius: 10px;" />
     </div>
     <div style="text-align: left; margin-top: 15px;">
-      <h3>Welcome to my Profile! 👋</h3>
-      <p>This is where you can type your words, bio, skills, or links right next to the video.</p>
       <p>How Coding FEELS🎭</p>
     </div>
   </div>
