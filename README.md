@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: row; width: 100%; gap: 20px;">
+<div style="display: flex; flex-direction: row; width: 40%; gap: 20px;">
   
   <!-- Left Main Box: Contains the Video/Image and its related layout underneath -->
   <div style="flex: 1;">
@@ -14,7 +14,7 @@
   
   <!-- Right Main Box: For your other content, stats, or separate text blocks -->
   <div style="flex: 1; text-align: left;">
-    <p>Hello</p>
+  
   </div>
 
 </div>
