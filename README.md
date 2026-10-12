@@ -1,12 +1,15 @@
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-around; width: 100%; gap: 20px;">
-  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; flex: 1;">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; width: 100%;">
+  
+  <!-- Left Side: Video/Image Frame -->
+  <div style="text-align: center;">
     <img src="image.gif" alt="Full Stack Silhouette Edit" style="width: 30%; max-height: 40px; object-fit: cover; background-color: #0d1117; border-radius: 10px;" />
-    <p style="margin-top: 8px;">How Coding FEELS🎭</p>
   </div>
   
-  <div style="flex: 1; text-align: left;">
-    <!-- Replace this text with the actual words, stats, or content you want to display -->
+  <!-- Right Side: The Text and the "How Coding FEELS" Label Together -->
+  <div style="text-align: left; flex: 1; margin-left: 20px;">
     <h3>Welcome to my Profile! 👋</h3>
-    <p>This is where you can type your words, bio, skills, or links right next to the video.</p>
+    <p style="margin: 5px 0;">This is where you can type your words, bio, skills, or links right next to the video.</p>
+    <p style="margin: 5px 0; font-weight: bold;">How Coding FEELS🎭</p>
   </div>
+
 </div>
