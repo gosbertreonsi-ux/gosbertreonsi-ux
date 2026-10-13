@@ -1,6 +1,4 @@
-  <div >
-    <div class="loader-border">
-      <img src="image1.svg" alt="" width:30%;/>
-    </div>
-    <p>How Coding FEELS 🎭</p>
-  </di>
+<div align="center">
+  <img src="image1.svg" width="100%" alt="" />
+  <p><b>How Coding FEELS 🎭</b></p>
+</div>
