@@ -4,6 +4,6 @@
 </div>
 <div style="flex: 1; text-align: left; display: flex; flex-direction: column; justify-content: center; background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
   <p style="margin: 0 0 8px 0; font-family: monospace; color: #58a6ff;">⚡ Downloading profile data...</p>
-  <img src="200.webg" alt="Downloading..." style="width: 100%; height: auto; display: block; background-color: transparent;" />
+  <img src="200.webp" alt="Downloading..." style="width: 100%; height: auto; display: block; background-color: transparent;" />
 </div>
 
