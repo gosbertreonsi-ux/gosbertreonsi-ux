@@ -10,7 +10,7 @@
 <s><img src="https://shields.io" alt="Linux" valign="middle" /></s> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" valign="middle" /> <img src="https://shields.io" alt="CI/CD" valign="middle" /> <s><img src="" alt="AWS" valign="middle" /></s>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" valign="middle" />  <s><img src="https://shields.io" alt="Machine Learning" valign="middle" /></s> <s><img src="https://shields.io" alt="LLMs" valign="middle" /></s>  <s><img src="https://shields.io" alt="RAG" valign="middle" /></s> <s><img src="https://shields.io" alt="AI Agents" valign="middle" /> </s>
 <s><img src="https://shields.io" alt="Distributed Systems" valign="middle" /></s> <s><img src="https://shields.io" alt="Event-Driven" valign="middle" /></s> <img src="https://shields.io" alt="System Design" valign="middle" />
-<s><img src="https://shields.io" alt="Figma" valign="middle" /></s>  <s><img src="https://shields.io" alt="GSAP" valign="middle" /></s> <s><img src="https://shields.io" alt="Three.js" valign="middle" /></s> <s><img src="https://shields.io" alt="WebGL" valign="middle" /></s>
+<s><img src="https://shields.io" alt="Figma" valign="middle" /></s>  <s><img src="https://shields.io" alt="GSAP" valign="middle" /></s> <img src="https://shields.io" alt="Three.js" valign="middle" /> <s><img src="https://shields.io" alt="WebGL" valign="middle" /></s>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=gosbertreonsi-ux&theme=gruvbox" alt="GitHub Streak" />
