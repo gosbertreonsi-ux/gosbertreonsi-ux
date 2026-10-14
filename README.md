@@ -2,10 +2,7 @@
   <img src="image2.svg" width="100%" alt="Loading..." />
   <p><b>How Coding FEELS 🎭</b></p>
 </div>
-
-## 🛠️ The Tech Stack Tracker
-
-### 🌐 FRONTEND
+FRONTEND
 <div align="center">
   <img src="https://shields.io" alt="Frontend" />
 </div>
