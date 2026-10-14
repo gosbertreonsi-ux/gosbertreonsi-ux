@@ -3,33 +3,11 @@
   <p><b>How Coding FEELS 🎭</b></p>
 </div>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" valign="middle" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" valign="middle" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS/TS" valign="middle" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" valign="middle" /><img src="https://shields.io" alt="Next.js" valign="middle" />
-
----
-
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" valign="middle" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" valign="middle" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS/TS" valign="middle" /><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" valign="middle" /><img src="https://shields.io" alt="Next.js" valign="middle" /> 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" valign="middle" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" valign="middle" /> <img src="https://shields.io" alt="REST APIs" valign="middle" /> <img src="https://shields.io" alt="WebSockets" valign="middle" /> 
-
----
-
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" valign="middle" /> <img src="https://shields.io" alt="SQL" valign="middle" /> <img src="https://shields.io" alt="Prisma" valign="middle" /> <img src="https://shields.io" alt="Redis" valign="middle" />  <img src="https://shields.io" alt="Architecture" valign="middle" /> 
-
----
-
 <img src="https://shields.io" alt="RBAC" valign="middle" />  <img src="https://shields.io" alt="Cryptography" valign="middle" />  <img src="https://shields.io" alt="OWASP" valign="middle" /> <img src="https://shields.io" alt="Testing" valign="middle" /> 
-
----
-
- <img src="https://shields.io" alt="Linux" valign="middle" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" valign="middle" /> <img src="https://shields.io" alt="CI/CD" valign="middle" /> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" valign="middle" /> 
-
----
-
+<img src="https://shields.io" alt="Linux" valign="middle" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" valign="middle" /> <img src="https://shields.io" alt="CI/CD" valign="middle" /> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" valign="middle" /> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" valign="middle" />  <img src="https://shields.io" alt="Machine Learning" valign="middle" /> <img src="https://shields.io" alt="LLMs" valign="middle" />  <img src="https://shields.io" alt="RAG" valign="middle" /> <img src="https://shields.io" alt="AI Agents" valign="middle" /> 
-
----
-
 <img src="https://shields.io" alt="Distributed Systems" valign="middle" /> <img src="https://shields.io" alt="Event-Driven" valign="middle" /> <img src="https://shields.io" alt="System Design" valign="middle" />
-
----
-
 <img src="https://shields.io" alt="Figma" valign="middle" />  <img src="https://shields.io" alt="GSAP" valign="middle" /> <img src="https://shields.io" alt="Three.js" valign="middle" /> <img src="https://shields.io" alt="WebGL" valign="middle" />
