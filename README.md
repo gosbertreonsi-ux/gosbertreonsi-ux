@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="image2.svg" width="100%" alt="Loading..." />
-  <p><b>How Coding FEELS 🎭</b></p>
+  <img src="image2.svg" width="70%" max-height="20%" alt="Loading..." />
+  <p ><b>How Coding FEELS 🎭</b></p>
 <div align="center">
   <img src="coding-journey.svg" width="30%" max-height="20%" alt="Building secure, real-time systems" />
 </div>
@@ -14,5 +14,5 @@
 ᵘᵖᶜᵒᵐⁱⁿᵍ...<img src="https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=fff&style=for-the-badge" alt="Redis" valign="middle" /> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" alt="Linux" valign="middle" /> <img src="https://img.shields.io/badge/OWASP-000?logo=owasp&logoColor=fff&style=for-the-badge" alt="OWASP" valign="middle" /> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" valign="middle" /> <img src="https://img.shields.io/badge/LangChain-7FC8FF?logo=langchain&logoColor=fff&style=for-the-badge" alt="langchain" valign="middle" /> <img src="https://img.shields.io/badge/Cloud%20Native%20Build-F76945?logo=cloudnativebuild&logoColor=fff&style=for-the-badge" alt="Distributed Systems" valign="middle" /><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=for-the-badge" alt="Apache Kafika" valign="middle" />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gosbertreonsi-ux&theme=gruvbox" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=gosbertreonsi-ux&theme=gruvbox" alt="GitHub Streak" width="30%" max-height="20%"/>
 </p>
