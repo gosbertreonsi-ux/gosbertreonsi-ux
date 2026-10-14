@@ -47,7 +47,7 @@
   <img src="https://shields.io" alt="Security" />
 </div>
 
-- [ ] **Authentication** — <img src="https://shields.io" alt="Authentication" valign="middle" /> Login & Identity
+- [ ] **Authentication** —  Login & Identity
 - [ ] **RBAC** — <img src="https://shields.io" alt="RBAC" valign="middle" /> Access Control
 - [ ] **Cryptography** — <img src="https://shields.io" alt="Cryptography" valign="middle" /> Encryption & Hashing
 - [ ] **OWASP** — <img src="https://shields.io" alt="OWASP" valign="middle" /> Web Security Standards
