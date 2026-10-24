@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="image2.svg" width="70%" alt="Loading..." />
-  <p><b>How Coding FEELS 🎭</b></p>
   <img src="coding-journey.svg" width="30%" alt="Building secure, real-time systems" />
 </div>
 <div align="center">
