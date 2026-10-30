@@ -18,6 +18,7 @@
 
 </div>
 
-| repoPROJECT | Live Link |
+| ![PROJECT](https://img.shields.io/badge/-PROJECT-0000FF?style=for-the-badge) | ecommerce |
 |---------|-----------|
-| ecommerce  | [eshop](https://eshop-web-preview.onrender.com/) |
+| ![Live Link](https://img.shields.io/badge/-LIVE%20LINK-FF0000?style=for-the-badge) | [eshop](https://eshop-web-preview.onrender.com/) |
+ 
