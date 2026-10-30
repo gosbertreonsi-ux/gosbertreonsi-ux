@@ -18,7 +18,6 @@
 
 </div>
 
-| ![​🇵​​🇷​​🇴​​🇯​​🇪​​🇨​​🇹​](https://img.shields.io/badge/-PROJECT-0000FF?style=for-the-badge) | ecommerce | leehub-media |
+| ![PROJECT-REPO](https://img.shields.io/badge/-PROJECTREPO-0000FF?style=for-the-badge) | [ecommerce](https://github.com/YOUR-USERNAME/ecommerce-repo) | [leehub-media](https://github.com/YOUR-USERNAME/leehub-media-repo) |
 |---------|-----------|--------------|
-| ![Live Link](https://img.shields.io/badge/-LIVE%20LINK-FF0000?style=for-the-badge) | [eSHOP](https://eshop-web-preview.onrender.com/) | [PLAYHUB](https://playhub-frontend-2cnb.vercel.app/) |
- 
+| ![Live Link](https://img.shields.io/badge/-LIVE%20LINK-FF0000?style=for-the-badge) | [eshop](https://eshop-web-preview.onrender.com/) | [leehub-media](https://playhub-frontend-2cnb.vercel.app/) |
