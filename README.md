@@ -17,3 +17,7 @@
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge) ![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=for-the-badge) ![Caddy Badge](https://img.shields.io/badge/Caddy-1F88C0?logo=caddy&logoColor=fff&style=for-the-badge) ![Prometheus Badge](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=for-the-badge) ![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=for-the-badge)
 
 </div>
+
+| repoPROJECT | Live Link |
+|---------|-----------|
+| ecommerce  | [eshop](https://eshop-web-preview.onrender.com/) |
